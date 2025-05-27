@@ -1,15 +1,25 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: [Plant Disease Detection using Machine Learning]
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. Shreyash Verma
+2. Sachin Singh
+3. Shivam chaurasia
+
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+1. git clone https://github.com/yourusername/plant-disease-detection.git
+cd plant-disease-detection/code\ to\ send
+
+2. conda create -n plantenv python=3.9
+conda activate plantenv
+
+3. conda create -n plantenv python=3.9
+conda activate plantenv
+
+4. python app.py
+
+5. http://127.0.0.1:5000/
+
 
 ## Checklist:
 1. Final Project Report
